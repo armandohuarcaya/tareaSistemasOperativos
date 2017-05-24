@@ -7,4 +7,4 @@ git commit -a -m "commit"
 git push -u origin master
 
 echo "Viernes Feliz Sabado"
-
+echo "Domingo, Lunes, Martes, Mierscoles, Jueves"
